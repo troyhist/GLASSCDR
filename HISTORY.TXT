@@ -1,0 +1,10 @@
+                             Glass Coder ver. 1.1
+                               Building history.
+                                  SHAREWARE.
+
+1.0.1   - 26/ XI.1999 - First version.
+1.1.1   - 04/XII.1999 - Truncated GC header down to 4 bytes. Fixed error
+                        with incorrect test results.
+
+
+
